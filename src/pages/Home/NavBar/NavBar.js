@@ -24,7 +24,7 @@ function NavBar() {
   };
   return (
     <div>
-      <div class="md:flex justify-end p-5 space-x-4 hidden ">
+      <div class="md:flex justify-end p-3 space-x-4 hidden ">
         <p>Phone: 5555555</p>
         <p>Location: Ramnogor, Sadar, Dinajpur</p>
         <p>facebook, insta, twitter</p>

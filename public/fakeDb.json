@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Retina Repair",
+    "description": "The retina is the light-sensitive layer of tissue that lines the inside of the eye and sends visual messages through the optic nerve to the brain. When the retina detaches, it is lifted or pulled from its normal position. If not treated promptly, retinal detachment can cause permanent vision loss.In some cases there may be small areas of the retina that are torn. These areas, called retinal tears or retinal breaks, can lead to retinal detachment.",
+    "treatment": "Small holes and tears are treated with laser surgery or a freeze treatment called cryopexy. These procedures are usually performed in the doctor’s office. During laser surgery tiny burns are made around the hole to “weld” the retina back into place. Cryopexy freezes the area around the hole and helps reattach the retina.Retinal detachments are treated with surgery that may require the patient to stay in the hospital. In some cases a scleral buckle, a tiny synthetic band, is attached to the outside of the eyeball to gently push the wall of the eye against the detached retina. If necessary, a vitrectomy may also be performed. During a vitrectomy, the doctor makes a tiny incision in the sclera (white of the eye). A small instrument is then placed into the eye to remove the vitreous, a gel-like substance that fills the center of the eye and helps the eye maintain a round shape",
+    "img": "https://templates.hibootstrap.com/opnix/default/assets/images/services/main1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "LASIK Eye Surgery",
+    "description": "LASIK, which stands for laser in-situ keratomileusis, is a popular surgery that can correct vision in people who are nearsighted or farsighted, or who have astigmatism.It’s one of many vision correction surgeries that work by reshaping your cornea, the clear front part of your eye, so that light focuses on the retina in the back of your eye.",
+    "treatment": "If you're tired of wearing eyeglasses or contact lenses, you may wonder whether LASIK surgery is right for you. LASIK is a type of refractive eye surgery.In general, most people who have laser-assisted in situ keratomileusis (LASIK) eye surgery achieve 20/20 vision or better, which works well for most activities. But most people still eventually need glasses for driving at night or reading as they get older.LASIK surgery has a good track record. Complications that result in a loss of vision are rare, and most people are satisfied with the results. Certain side effects, particularly dry eyes and temporary visual disturbances (such as glare), are fairly common. But these usually clear up after a few weeks or months, and very few people consider them to be a long-term problem.",
+    "img": "https://templates.hibootstrap.com/opnix/default/assets/images/services/main3.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Diabetic Retinopathy",
+    "description": "Diabetic retinopathy is basically a diabetes complication, which affects eyes by causing damage to the blood vessels spread throughout the light sensitive tissues of the retina (the back of the eye).Anyone having type 1 or type 2 diabetes can develop this eye condition, especially those who have diabetes for a long time with fluctuating blood sugar levels. Usually, both eyes get affected by diabetic retinopathy.",
+    "treatment": "The most important part of your treatment is to keep your diabetes under control.In the early stages of diabetic retinopathy, controlling your diabetes can help prevent vision problems developing.In the more advanced stages, when your vision is affected or at risk, keeping your diabetes under control can help stop the condition getting worse.For diabetic retinopathy that is threatening or affecting your sight, the main treatments are: 1.laser treatment – to treat the growth of new blood vessels at the back of the eye (retina) in cases of proliferative diabetic retinopathy, and to stabilise some cases of maculopathy2.eye injections – to treat severe maculopathy that's threatening your sight. 3.Eye surgery – to remove blood or scar tissue from the eye if laser treatment isn't possible because retinopathy is too advanced",
+    "img": "https://templates.hibootstrap.com/opnix/default/assets/images/services/main6.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Cornea Transplant",
+    "description": "A cornea transplant (keratoplasty) is a surgical procedure to replace part of your cornea with corneal tissue from a donor. Your cornea is the transparent, dome-shaped surface of your eye. It's where light enters your eye and is a large part of your eye's ability to see clearly.A cornea transplant can restore vision, reduce pain, and improve the appearance of a damaged or diseased cornea.Most cornea transplant procedures are successful. But cornea transplant carries a small risk of complications, such as rejection of the donor cornea.",
+    "treatment": "A cornea transplant is most often used to restore vision to a person with a damaged cornea. A cornea transplant can also relieve pain or other signs and symptoms associated with cornea diseases.A number of conditions can be treated with a cornea transplant, including: 1.A cornea that bulges outward (keratoconus) 2.Fuchs' dystrophy, a hereditary condition 3.Thinning or tearing of the cornea 4.Cornea scarring, caused by infection or injury 5.Swelling of the cornea 6.Corneal ulcers not responding to medical treatment 7.Complications caused by previous eye surgery",
+    "img": "https://templates.hibootstrap.com/opnix/default/assets/images/services/main4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Glaucoma & Cornea",
+    "description": "Glaucoma is an acquired optic neuropathy in which destruction of ganglion cells and fibers leads to irreversible visual field loss. The prevalence of glaucoma, a leading cause of visual impairment and blindness worldwide [1,2], in the general population is about 2%. Increased intraocular pressure (IOP) is a primary risk factor for glaucoma development. IOP evaluation is used to assess disease control and treatment response, and lowering IOP has resulted in reducing the rates of disease progression over 5 years [3-7]. These data confirmed that elevated IOP is a pathophysiologic basis for glaucoma; therefore, accurate IOP measurement is critical in glaucoma.",
+    "treatment": "Glaucoma is treated by lowering your eye pressure (intraocular pressure). Depending on your situation, your options may include prescription eyedrops, oral medications, laser treatment, surgery or a combination of any of these. 1.Prostaglandins: These increase the outflow of the fluid in your eye (aqueous humor), thereby reducing your eye pressure. 2.Beta blockers: These reduce the production of fluid in your eye, thereby lowering the pressure in your eye (intraocular pressure). ",
+    "img": "https://templates.hibootstrap.com/opnix/default/assets/images/services/main2.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Dry Eye Surgery",
+    "description": "Artificial tears are a good temporary solution to dry eyes. They can provide immediate relief, and are available without prescription. However, if you need to use eye drops more than three times a day, you should use preservative-free drops such as Bion Tears, Cellufresh, Polytears-Free or Refresh. Preservative-free drops are also safe to use with contact lenses.Eye Institute specialists pioneered the use of ‘autologous human serum eye drops’ in New Zealand. These special eye drops, made from a patient’s own blood serum, have been used as a sight-saving treatment in people with severe Dry Eye Syndrome.",
+    "treatment": "For most people with occasional or mild dry eye symptoms, it's enough to regularly use over-the-counter eyedrops (artificial tears). If your symptoms are persistent and more serious, you have other options. What you do depends on what's causing your dry eyes.Some treatments focus on reversing or managing a condition or factor that's causing your dry eyes. Other treatments can improve your tear quality or stop your tears from quickly draining away from your eyes.",
+    "img": "https://templates.hibootstrap.com/opnix/default/assets/images/services/main5.jpg"
+  }
+]
